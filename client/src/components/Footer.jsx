@@ -67,7 +67,7 @@ export default function FooterCom() {
             year={new Date().getFullYear()}
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
-            <Footer.Icon href='www.linkedin.com/in/nitish-patel-53a6ba255' icon={BsLinkedin}/>
+            <Footer.Icon href='https://www.linkedin.com/in/nitish-patel-53a6ba255/' icon={BsLinkedin}/>
             <Footer.Icon href='#' icon={BsInstagram}/>
             <Footer.Icon href='https://www.facebook.com/nitish.patel.758737' icon={BsFacebook}/>
             <Footer.Icon href='https://github.com/nitish110922' icon={BsGithub}/>
